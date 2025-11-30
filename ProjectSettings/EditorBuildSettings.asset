@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/PassthroughCameraApiSamples/CameraViewer/CameraViewer.unity
     guid: ad5bb12b10679b840999aa322aa7a491
+  - enabled: 1
+    path: Assets/Kenty/Scenes/PCA-Stereoscopic3D.unity
+    guid: b4f20395b53daeb40a3cc112876f4845
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0e1b9a0bfe2f6384f87817c76991cbd1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f7c3bf9d1a7dc9b49a14621d67accf7d, type: 2}
